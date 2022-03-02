@@ -298,7 +298,12 @@ h1, h2, h3, h4, h5, h6, figure {
     padding: 3em 0;
   }
 }
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
 #fh5co-started {
   border-bottom: none;
 }
